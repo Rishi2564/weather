@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url('images/cloudgif.gif');
+    background-image: url('cloudgif.gif');
     background-size: cover; /* Makes the background cover the entire page */
     background-repeat: no-repeat; /* Prevents the background from repeating */
     background-position: center center; /* Centers the background */
