@@ -20,4 +20,5 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 4-The app dynamically updates the interface to display the fetched weather information. <br>
 
 ## Deployment
-Use the link to deploy the project:-
+Use the link to deploy the project:- <br>
+https://rishi2564.github.io/weather/
